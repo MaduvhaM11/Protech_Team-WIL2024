@@ -4,7 +4,6 @@
 > Developed as part of my diploma in IT Management  
 > 📍 uThukela District, KwaZulu-Natal, South Africa
 
----
 
 ## 📘 Project Overview
 
@@ -12,7 +11,6 @@ This project focuses on designing and implementing a **robust, secure, and susta
 
 The goal was to bridge the digital divide and improve healthcare outcomes by extending a stable network connection from an existing source.
 
----
 
 ## 🎯 Project Objectives
 
@@ -28,7 +26,6 @@ The goal was to bridge the digital divide and improve healthcare outcomes by ext
 - 👨‍💻 **ICT Staff Training**  
   Conduct practical, hands-on training sessions for hospital ICT personnel to manage and maintain the system effectively.
 
----
 
 ## 🧩 Network Specifications
 
@@ -39,23 +36,21 @@ The goal was to bridge the digital divide and improve healthcare outcomes by ext
   - Real-time Communication  
   - Digital Inventory/Supply Management
 
----
 
 ## 🛠️ Technologies & Tools Used
 
-- 🧱 Cisco Routers & Switches  
-- 🔒 FortiGate Firewall  
+- 🧱 Routers & Switches  
 - 🌍 CAT6 Cabling  
 - 🖥️ Windows Server Environment  
 - 📡 Wireless Access Points (for extended coverage)
 
----
 
 ## 🚧 Challenges Overcome
 
 - Terrain and location constraints in a rural setting  
 - Budget limitations for hardware procurement  
 - Skill gaps addressed through targeted training programs  
+
 
 ## 🚀 Future Improvements
 
