@@ -1,16 +1,64 @@
-# Protech Team WIL2024
-Planning and Execution of Hospital Network
+# 🏥 Planning and Execution of Hospital Network
 
-Project Overview
+> **Final Year Work Integrated Learning Project**  
+> Developed as part of my diploma in IT Management  
+> 📍 uThukela District, KwaZulu-Natal, South Africa
 
-This project aims to develop and implement a robust network infrastructure to provide reliable internet connectivity to the main hospital in the remote uThukela District of Kwazulu-Natal, South Africa. The hospital serves a wide range of patients and requires consistent access to the internet to support medical, administrative, and supply chain operations. By implementing a sustainable network extension from an existing connection, this project addresses the digital divide in a crucial area and enhances healthcare delivery capabilities.
+---
 
-Project Objectives
+## 📘 Project Overview
 
-Reliable Network Infrastructure: Enables high-speed, dedicated connectivity to support hospital operations.
-Sustainable Design: Designed for long-term use with minimal maintenance.
-Security Measures: Equipped with firewalls and secure connections to protect sensitive patient and hospital data.
-Training for Hospital Staff: Comprehensive training for ICT staff to support infrastructure maintenance and troubleshooting.
-Network Requirements
+This project focuses on designing and implementing a **robust, secure, and sustainable network infrastructure** for a main hospital located in a remote region of the uThukela District. Reliable internet connectivity is critical for enabling effective healthcare services, digital administration, and supply chain coordination.
 
-Number of Active Users: 100
+The goal was to bridge the digital divide and improve healthcare outcomes by extending a stable network connection from an existing source.
+
+---
+
+## 🎯 Project Objectives
+
+- ✅ **Reliable Network Infrastructure**  
+  Provide high-speed, dedicated internet access to support day-to-day hospital operations.
+
+- 🌱 **Sustainable Design**  
+  Ensure long-term usability with minimal ongoing maintenance required.
+
+- 🔐 **Enhanced Security**  
+  Implement firewalls and encrypted connections to safeguard sensitive hospital and patient data.
+
+- 👨‍💻 **ICT Staff Training**  
+  Conduct practical, hands-on training sessions for hospital ICT personnel to manage and maintain the system effectively.
+
+---
+
+## 🧩 Network Specifications
+
+- 👥 **Active Users Supported**: 100+
+- 🌐 **Primary Use**:  
+  - Medical Systems  
+  - Administrative Operations  
+  - Real-time Communication  
+  - Digital Inventory/Supply Management
+
+---
+
+## 🛠️ Technologies & Tools Used
+
+- 🧱 Cisco Routers & Switches  
+- 🔒 FortiGate Firewall  
+- 🌍 CAT6 Cabling  
+- 🖥️ Windows Server Environment  
+- 📡 Wireless Access Points (for extended coverage)
+
+---
+
+## 🚧 Challenges Overcome
+
+- Terrain and location constraints in a rural setting  
+- Budget limitations for hardware procurement  
+- Skill gaps addressed through targeted training programs  
+
+## 🚀 Future Improvements
+
+- 🔁 Integration with Cloud-based medical systems  
+- 📶 Expansion of Wi-Fi access points for outdoor emergency zones  
+- 📊 Real-time network monitoring dashboard
